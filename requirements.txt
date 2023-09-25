@@ -1,0 +1,6 @@
+matplotlip
+numpy
+pandas
+tensorflow
+ta-lib
+
